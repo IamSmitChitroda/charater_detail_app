@@ -1,16 +1,47 @@
-# character_detail_app
+# Character Detail Mobile App
 
-A new Flutter project.
+Welcome to the Character Detail Mobile App! This Flutter application is designed to provide users with an immersive experience for exploring characters in various stories, games, or other media. With features like a favorite character icon, favorite character page, carousel slider, and character detail page, this app aims to enhance your character exploration journey.
+
+## Features
+
+### 1. Favorite Character Icon
+- Mark your favorite characters with a simple tap on the favorite character icon.
+- Keep track of your most beloved characters effortlessly.
+
+### 2. Favorite Character Page
+- Access all your favorite characters conveniently in one place.
+- Easily revisit and admire your favorite characters anytime.
+
+### 3. Carousel Slider
+- Immerse yourself in a visually stunning carousel slider.
+- Explore a plethora of characters with ease and elegance.
+
+### 4. Character Detail Page
+- Dive deep into the intricacies of each character.
+- Explore their backgrounds, traits, and more in comprehensive detail.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app locally or contribute to its development, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone this repository:**
+    ```
+    git clone https://github.com/your-username/character-detail-app.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate into the project directory:**
+    ```
+    cd character-detail-app
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Install dependencies:**
+    ```
+    flutter pub get
+    ```
+
+4. **Run the app:**
+    ```
+    flutter run
+    ```
+## Images
+
